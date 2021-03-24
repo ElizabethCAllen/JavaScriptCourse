@@ -43,5 +43,5 @@ function sayMyName() {
     console.log(this.name);    
 }
 sayMyName();
-user1.sayMyName();  
+user1.sayMyName();            
 user2.sayMyName();
